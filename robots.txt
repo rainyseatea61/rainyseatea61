@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Sitemap: https://ftp.dayon.me/sitemap.xml
+
+User-agent: PetalBot
+Disallow: /
